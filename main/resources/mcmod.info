@@ -1,0 +1,16 @@
+[
+{
+  "modid": "yam",
+  "name": "yam tutorial mod",
+  "description": "GETTING THERE!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jongjam"],
+ 
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
