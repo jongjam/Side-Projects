@@ -2,7 +2,7 @@
 The main folder contains the source code and textures for my yam mod.
 The functional yam is "Okonkwo's Yam", in honor of the protagonist of Chinua Achebe's Things Fall Apart.
 It gives maximum healing!
-I created this following Mr.CrayFish tutorials on YouTube.
+I followed Mr.Crayfish's YouTube tutorials as a guide but Okonkwo's Yam is an original creation.
 I utilized a workspace environment called Minecraft Forge.
 
 The Riemann sum calculator is from a YouTube tutorial I followed by Jose Rodriguez Rivaz.
